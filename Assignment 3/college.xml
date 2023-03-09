@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="college.xsl" type="text/xsl"?>
+
+<colleges>
+    <college>
+        <name> Pune Institute Of Computer Technology</name>
+        <rank>1</rank>
+        <location>Dhankawadi</location>
+    </college>
+    <college>
+        <name> College of Engineering, Pune</name>
+        <rank>2</rank>
+        <location>Shivaji Nagar</location>
+    </college>
+    <college>
+        <name> PCCOE</name>
+        <rank>3</rank>
+        <location>Pimpri</location>
+    </college>
+    <college>
+        <name> VIT</name>
+        <rank>4</rank>
+        <location>Bibwewadi</location>
+    </college>
+</colleges>

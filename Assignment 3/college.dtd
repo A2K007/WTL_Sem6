@@ -1,0 +1,5 @@
+<!ELEMENT colleges (info)*>
+<!ELEMENT info (name, rank, location)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT rank (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
